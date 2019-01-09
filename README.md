@@ -1,4 +1,5 @@
 # APR_BD_Externa
+
 APR_BD_EXTERNA
 =============
 
@@ -20,7 +21,7 @@ Para MacBook Pro (Retina, 13-inch, Late 2013)
 
 LINK DE DESCARGA
 ===================
-- [developer.android.com](https://developer.android.com/studio/?hl=es-419)
+- Android Studio[developer.android.com](https://developer.android.com/studio/?hl=es-419)
 
 - [XAMPP] (https://www.apachefriends.org/es/index.html)
 
@@ -40,7 +41,7 @@ Pasos a seguir:
   ![Alt text](imagen2.png )
 - Presiona donde dice Opciones de desarrollador y hablitala, se pondra verde
 - Aceptas el mesaje de Usar ajustes de desarrolador
-- habilitas la Opción de Depuración de USB
+- Habilitas la Opción de Depuración de USB
 
    
 
