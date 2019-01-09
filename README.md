@@ -6,9 +6,9 @@ APR_BD_EXTERNA
 SUBIR DATOS A UNA BD EXTERNA
 ---------------------------- 
 Descripción:
-En este prototipo, se creo para lograr que una Aplicación móvil,
-nos permita ingresar datos en la aplicación y que los almacene en
-una Base de Batos externa SQL.
+Este prototipo se creó para lograr que una Aplicación móvil
+nos permita ingresar datos en dicha aplicación y que los almacene en
+una Base de Datos externa SQL.
 
 
 SOFTWARE UTILIZADO
@@ -26,23 +26,22 @@ LINK DE DESCARGA
 - [XAMPP] (https://www.apachefriends.org/es/index.html)
 
 
-PARA HABILITAR OPCIONES DE DESARROLLADOR 
-DEL DISPOSITIVO MOVIL
+PARA HABILITAR OPCIONES DE DESARROLLADOR DEL DISPOSITIVO MÓVIL
 =====================================
 Pasos a seguir:
 
 - Ir a Ajustes
-- Acerca del (dispositivo o telefono)
-- Número de compilación
-  ![Alt text](imagen.png "Presion esa opción")
-- Verá un mensaje a medida que se aproxime a los 7 toques
+- Acerca del (dispositivo o teléfono).
+- Número de compilación.
+  ![Alt text](imagen.png "Presionar esa opción").
+- Verá un mensaje a medida que se aproxime a los 7 toques.
 - Toque la flecha hacia atrás una vez haya terminado y aparecerá
-  Opciones del desarrollador en Ajustes
+  Opciones del desarrollador en Ajustes.
   ![Alt text](imagen2.png )
-- Presiona donde dice Opciones de desarrollador y hablitala, se pondra verde
+- Presione donde dice Opciones de desarrollador y hablitela, se pondrá verde
 - Aceptas el mesaje de Usar ajustes de desarrolador
-- Habilitas la Opción de Depuración de USB
-
+- Habilite la Opción de Depuración de USB
+- Con esto tendra su dispositivo listo para utilizar en modo programdor.
    
 
 
