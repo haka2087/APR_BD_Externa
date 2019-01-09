@@ -21,7 +21,7 @@ Para MacBook Pro (Retina, 13-inch, Late 2013)
 
 LINK DE DESCARGA
 ===================
-- Android Studio[developer.android.com](https://developer.android.com/studio/?hl=es-419)
+- Android Studio [developer.android.com](https://developer.android.com/studio/?hl=es-419)
 
 - [XAMPP] (https://www.apachefriends.org/es/index.html)
 
