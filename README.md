@@ -1,7 +1,6 @@
 # APR_BD_Externa
 
-APR_BD_EXTERNA
-=============
+
 
 SUBIR DATOS A UNA BD EXTERNA
 ---------------------------- 
