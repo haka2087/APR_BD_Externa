@@ -44,3 +44,20 @@ Pasos a seguir:
    
 
 
+Para Ejecutar apps y emularla en Dispositivo
+--------------------------------------------
+- Deben descargar o clonar la APP, a su Pc.
+- Descoprimir archivo descargado o en el terminal de tu PC, Utilizar el
+comando git clone + Url que figura en apartado CLONE or DONWLOAD.
+  ![Alt text](GitClone.png )
+- Iniciar Android Studio y abrir la APP descarda en la ruta, en la cual
+la guardaron.
+- Luego de haber cargado la APP en Android, conectar el dispositico Movil
+en el cual iniciaran la APP.
+- Presionar el Boton Run, en Android Studio, les aparecera su dispositivo
+Móvil Conectado en el emulador de android con el Nombre del modelo de su
+Telefono Móvil.
+- Seleccionan su Móvil para la emulacion de la APP y presionan Aceptar.
+- Su telefono pedira permiso para conectar al Pc, Aceptan esa opción y 
+luego de unos segundo se instalara la App su Móvil.
+
