@@ -31,7 +31,7 @@ Pasos a seguir:
 
 - Ir a Ajustes
 - Acerca del (dispositivo o teléfono).
-- Número de compilación.
+- Número de compilación presionar 7 veces.
   ![Alt text](imagen.png "Presionar esa opción").
 - Verá un mensaje a medida que se aproxime a los 7 toques.
 - Toque la flecha hacia atrás una vez haya terminado y aparecerá
