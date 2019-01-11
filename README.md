@@ -59,5 +59,5 @@ Móvil Conectado en el emulador de android con el Nombre del modelo de su
 Telefono Móvil.
 - Seleccionan su Móvil para la emulacion de la APP y presionan Aceptar.
 - Su telefono pedira permiso para conectar al Pc
-- Aceptan esa opción y luego de unos segundo se instalara la App su Móvil.
+- Aceptan esa opción y luego de unos segundo se instalara la App en su Móvil.
 
