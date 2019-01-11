@@ -52,7 +52,7 @@ comando git clone + Url que figura en apartado CLONE or DONWLOAD.
   ![Alt text](gitclone.png )
 - Iniciar Android Studio y abrir la APP descarda en la ruta, en la cual
 la guardaron.
-- Luego de haber cargado la APP en Android, conectar el dispositico Movil
+- Luego de haber cargadola APP a Android Studio, conectar el dispositico Movil
 en el cual iniciaran la APP.
 - Presionar el Boton Run, en Android Studio, les aparecera su dispositivo
 Móvil Conectado en el emulador de android con el Nombre del modelo de su
