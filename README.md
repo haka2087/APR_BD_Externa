@@ -1,7 +1,7 @@
 # Aplicación Móvil Para el Agua Potable Rural
 =============================================================================== 
 
-# APR_BD_Externa
+# APR-00
 
 Descripción:
 =============
@@ -25,7 +25,6 @@ Acá se probo un software que permite crear base de datos para SQLite, en la cua
 creo una base dato para verificar funcionalidad con el dispositivo móvil.
 
  - Software para BD-SQLite [www.sqlitebrowser.org](https://sqlitebrowser.org/)
-
 
 
    
