@@ -9,7 +9,7 @@ Este App se creó para lograr que una Aplicación móvil
 nos permita ingresar datos en dicha aplicación y que los almacene en
 una Base de Datos externa SQL.
 
-# APR-01
+># APR-01
 
 Descripción:
 =============
