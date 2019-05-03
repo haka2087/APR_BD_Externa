@@ -24,6 +24,14 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
 
  - Link Software para BD-SQLite [www.sqlitebrowser.org](https://sqlitebrowser.org/)
 
+# APR-Login-con-DB-externa 
+  Sprint 04
+
+ - En esta App se creo un login para un operador.
+ - Se logro crear una Base de Dato Externa, en la cual se crearon unas tablas con algunos 
+   campos para realizar algunas pruebas.
+ - Como conclusión, podemos validar un operador con el login y consultar datos en la App,
+   sobre si el medidor corresponde a la casa que esta tomando la lectura.
 
    
 
