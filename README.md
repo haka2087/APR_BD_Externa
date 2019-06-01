@@ -32,7 +32,12 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    campos para realizar algunas pruebas.
  - Como conclusión, podemos validar un operador con el login y consultar datos en la App,
    sobre si el medidor corresponde a la casa que esta tomando la lectura.
-
+   
+# APR-Login-Registro
+  Sprint 05
+   Acá tenemos una APP que piede el Regsitro de Usuario valido.
+   Se integra el modulo de Registro Lectura 
+   Se integra el modulo de Verificar Lectura
    
 
 
