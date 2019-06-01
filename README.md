@@ -35,9 +35,10 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    
 # APR-Login-Registro
   Sprint 05
-   Acá tenemos una APP que piede el Regsitro de Usuario valido.
-   Se integra el modulo de Registro Lectura 
-   Se integra el modulo de Verificar Lectura
+  
+  - Acá tenemos una APP que piede el Regsitro de Usuario valido.
+  - Se integra el modulo de Registro Lectura 
+  - Se integra el modulo de Verificar Lectura
    
 
 
