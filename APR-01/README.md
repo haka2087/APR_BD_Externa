@@ -23,7 +23,7 @@ Para Ejecutar apps y emularla en Dispositivo
 --------------------------------------------
 - Deben descargar o clonar la APP, a su Pc.
 - Descoprimir archivo descargado o en el terminal de tu PC, Utilizar el
-comando git clone + Url que figura en apartado CLONE or DONWLOAD.
+comando git clone + Url que figura en el apartado CLONE or DONWLOAD.
   ![Alt text](gitclone.png )
 - Iniciar Android Studio y abrir la APP descarda en la ruta, en la cual
 la guardaron.
