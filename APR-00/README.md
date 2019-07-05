@@ -32,11 +32,11 @@ Pasos a seguir:
 - Ir a Ajustes
 - Acerca del (dispositivo o teléfono).
 - Número de compilación presionar 7 veces.
-  ![Alt text](imagen.png "Presionar esa opción").
+  ![Alt text](nro-compilacion.png "Presionar esa opción").
 - Verá un mensaje a medida que se aproxime a los 7 toques.
 - Toque la flecha hacia atrás una vez haya terminado y aparecerá
   Opciones del desarrollador en Ajustes.
-  ![Alt text](imagen2.png )
+  ![Alt text](ajustes.png )
 - Presione donde dice Opciones de desarrollador y hablitela, se pondrá verde
 - Aceptas el mesaje de Usar ajustes de desarrolador
 - Habilite la Opción de Depuración de USB
