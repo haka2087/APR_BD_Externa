@@ -11,9 +11,10 @@ una Base de Datos externa SQL.
 # APR-01
 
  - Descripción:
-En esta App se probo que la aplicación logre guardar los datos en su Base de Datos
-y una vez guardado los datos logremos exportarlo a la BD externa y la vez revisaro
-en la BD externa SQL.
+En esta App se probo que la aplicación logre guardar los datos en su Base de Datos SQLite 
+y una vez guardado los datos logremos exportarlo a la BD externa y la vez poder revisaro en
+su panel de administración del phpMyAdmin 
+
 
 # APR_BD_Externa
 
