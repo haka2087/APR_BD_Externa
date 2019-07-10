@@ -4,6 +4,7 @@
 # APR-00
 
  - Descripción:
+ 
 Este App se creó para lograr que una Aplicación móvil
 nos permita ingresar datos en dicha aplicación y que los almacene en
 una Base de Datos externa SQL.
@@ -11,8 +12,9 @@ una Base de Datos externa SQL.
 # APR-01
 
  - Descripción:
+ 
 En esta App se probo que la aplicación logre guardar los datos en su Base de Datos SQLite 
-y una vez guardado los datos logremos exportarlo a la BD externa y la vez poder revisaro en
+y una vez guardado los datos logremos exportarlo a la BD externa y la vez poder revisar en
 su panel de administración del phpMyAdmin 
 
 
