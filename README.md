@@ -18,7 +18,7 @@ y una vez guardado los datos logremos exportarlo a la BD externa y la vez poder 
 su panel de administración del phpMyAdmin 
 
 
-# APR_BD_Externa
+# APR_BD_Externa SQLitebrowser
 
  - Descripción:
 
