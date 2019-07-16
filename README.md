@@ -49,7 +49,7 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    - App con su login valido
    - Registrando los datos de lectura en la App y enviandolos a una base de datos ubicada en un hosting
    (https://www.000webhost.com/cpanel-login?from=panel)
-   - Como resultado final tenemos un loginn valido, una toma de lectura y su envio correspondiente a una BD externa.
+   - Como resultado final tenemos un login valido, una toma de lectura y su envio de datos desde la App a una BD externa.
    
 
 
