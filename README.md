@@ -1,7 +1,7 @@
 # Aplicación Móvil Para el Agua Potable Rural
 =============================================================================== 
 
-# APR-00
+# APR-01
 
  - Descripción:
  
@@ -9,7 +9,7 @@ Este App se creó para lograr que una Aplicación móvil
 nos permita ingresar datos en dicha aplicación y que los almacene en
 una Base de Datos externa SQL.
 
-# APR-01
+# APR-02
 
  - Descripción:
  
@@ -18,7 +18,7 @@ y una vez guardado los datos logremos exportarlo a la BD externa y la vez poder 
 su panel de administración del phpMyAdmin 
 
 
-# APR_BD_Externa SQLitebrowser
+# APR_BD_Externa SQLitebrowser-03
 
  - Descripción:
 
@@ -27,7 +27,7 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
 
  - Link Software para BD-SQLite [www.sqlitebrowser.org](https://sqlitebrowser.org/)
 
-# APR-Login-con-DB-externa 
+# APR-Login-con-DB-externa-04
   Sprint 04
 
  - En esta App se creo un login para un operador.
@@ -36,12 +36,20 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
  - Como conclusión, podemos validar un operador con el login y consultar datos en la App,
    sobre si el medidor corresponde a la casa que se esta tomando la lectura.
    
-# APR-Login-Registro
+# APR-Login-Registro-05
   Sprint 05
   
-  - Acá tenemos una APP que permite el Regsitro de Usuario valido.
-  - Se integra el modulo de Registro Lectura 
-  - Se integra el modulo de Verificar Lectura
+  - Acá tenemos una APP que permite el Regsitro de Usuario valido 
+  - Se integra el modulo de Registro Lectura.
+  - Se integra el modulo de Verificar Lectura.
+  - Como conclusión se unifican todos los modulos anteriores para optener una sola App.
+  
+ # APR-Login-BD-Hosting-06
+   Sprint 06
+   - App con su login valido
+   - Registrando los datos de lectura en la App y enviandolos a una base de datos ubicada en un hosting
+   (https://www.000webhost.com/cpanel-login?from=panel)
+   - Como resultado final tenemos un loginn valido, una toma de lectura y su envio correspondiente a una BD externa.
    
 
 
