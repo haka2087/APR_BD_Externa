@@ -11,47 +11,41 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginTop="176dp"
+        android:layout_marginTop="44dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
         android:text="Enviar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/medidor" />
 
-
-    <Button
-        android:id="@+id/btnExport"
-        android:layout_width="240dp"
-        android:layout_height="137dp"
+    <EditText
+        android:id="@+id/lectura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="88dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        android:onClick="Exportar"
-        android:text="Exportar Lecturas"
-        android:textSize="24sp"
+        android:ems="10"
+        android:hint="@string/lectura_anterior"
+        android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnRegLectura" />
-
-    <Button
-        android:id="@+id/btnRegLectura"
-        android:layout_width="242dp"
-        android:layout_height="128dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginTop="140dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        android:onClick="Registrar"
-        android:text="Registrar Lectura"
-        android:textSize="24sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/medidor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="8dp"
+        android:ems="10"
+        android:hint="@string/nueva_lectura"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lectura" />
 
 </android.support.constraint.ConstraintLayout>

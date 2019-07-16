@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.windows10.App_APR">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="App_APR"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.windows10.App_APR.Exportar"
+            android:label="@string/title_activity_exportar"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name="com.example.windows10.App_APR.MainActivity" />
+        <activity android:name="com.example.windows10.App_APR.Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.windows10.App_APR.RegistrarLectura" />
+        <activity android:name="com.example.windows10.App_APR.ConsulraLecturas" />
+    </application>
+
+</manifest>
