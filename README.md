@@ -55,8 +55,9 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    Sprint 06
    - App con login valido
    - App Registar lecturas
-   - La App Importa datos hacia la base dadto SQLite de la Appp
+   - La App Importa datos hacia la base datos SQLite de la Appp
    - La App exporta los datos registrados en la App hacia la Base de Datos externa.
+   - Link del hosting : https://apragua.000webhostapp.com/login.html
    
    
    
