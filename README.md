@@ -56,7 +56,7 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    - App con login valido
    - App Registar lecturas
    - La App Importa datos hacia la base dadto SQLite de la Appp
-   _ La App exporta los datos registrados en la App hacia la Base de Datos externa.
+   - La App exporta los datos registrados en la App hacia la Base de Datos externa.
    
    
    
