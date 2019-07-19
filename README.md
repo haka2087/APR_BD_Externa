@@ -51,5 +51,14 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    (https://www.000webhost.com/cpanel-login?from=panel)
    - Como resultado final tenemos un login valido, una toma de lectura y su envio de datos desde la App a una BD externa.
    
-
+ # APR_Importación_Exportación-07
+   Sprint 06
+   - App con login valido
+   - App Registar lecturas
+   - La App Importa datos hacia la base dadto SQLite de la Appp
+   _ La App exporta los datos registrados en la App hacia la Base de Datos externa.
+   
+   
+   
+   
 
