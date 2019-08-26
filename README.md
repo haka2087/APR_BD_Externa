@@ -64,7 +64,7 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    - En esta App se configuro que la aplicación solo perimita subir una vez las lecturas a la BD, esto correspondera cuando el    operador termine de registrar todas las lecturas de los medidores.
    - De esta forma evitar subir medidores de usuario sin lecturas
    
- # APR_Importacio_Exportacio_BBDD-09
+ # APR_Importación_Exportación_BBDD-09
    Sprint 07
    - Login válidado
    - Verificar medidor que corresponda a la casa correcta
