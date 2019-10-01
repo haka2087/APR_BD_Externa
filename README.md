@@ -76,9 +76,10 @@ creo una base dato para verificar funcionalidad con el dispositivo móvil.
    
  # APR_Importacio_Exportacio_BD_BotonVolver-10
    Sprint 08 
-   - En esta versión de solo tiene una varinate, que es un boton en las Activity
+   - En esta versión es de solo tiene una variante, que es un botón en las Activity
    - Motivo, realizar pruebas con android studio y el framework de Espresso.
    _ Se crea un realase para estsa versión.
+   - Link Release Apk : https://github.com/haka2087/App_APR/releases/tag/V1.5-beta.6
    
    
    
